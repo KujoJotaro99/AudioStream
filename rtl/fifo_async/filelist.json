@@ -1,0 +1,10 @@
+{
+  "top": "fifo_async",
+  "files": [
+    "fifo_async.sv",
+    "../../submodules/imports/async_ram_block.sv",
+    "../../submodules/imports/bin2gray.sv",
+    "../../submodules/imports/gray2bin.sv",
+    "../../submodules/imports/sync2.sv"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "top": "top",
+  "files": [
+    "top.sv",
+    "../fifo_async/fifo_async.sv",
+    "../../submodules/imports/async_ram_block.sv",
+    "../../submodules/imports/bin2gray.sv",
+    "../../submodules/imports/gray2bin.sv",
+    "../../submodules/imports/sync2.sv",
+    "../../submodules/imports/SB_PLL40_2_PAD.sv",
+    "../../submodules/imports/axis_i2s2.sv",
+    "../../submodules/basejump_stl/bsg_misc/bsg_defines.sv",
+    "../../submodules/imports/bsg_serial_in_parallel_out_full.sv",
+    "../../submodules/imports/bsg_parallel_in_serial_out.sv"
+  ]
+}
