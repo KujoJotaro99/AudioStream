@@ -1,2 +1,2 @@
-# AudioStream
+# Audio Stream
 A class project from CSE 225 at UCSC utilizing a CDC FIFO for audio streaming. Synthesizes onto an Lattice iCE40UP5K FPGA using the 1bitSquared developer board and Digilent I2S2 PMOD kit for audio streaming. 
